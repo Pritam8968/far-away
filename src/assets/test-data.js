@@ -1,0 +1,21 @@
+const initialItems = [
+  { id: 1, description: 'Passports', quantity: 2, packed: false },
+  { id: 2, description: 'Socks', quantity: 12, packed: false },
+  { id: 3, description: 'Charger', quantity: 1, packed: false },
+  { id: 4, description: 'Toothbrush', quantity: 2, packed: false },
+  { id: 5, description: 'Shoes', quantity: 1, packed: false },
+  { id: 6, description: 'Sunglasses', quantity: 1, packed: false },
+  { id: 7, description: 'Hat', quantity: 1, packed: false },
+  { id: 8, description: 'Camera', quantity: 1, packed: false },
+  { id: 9, description: 'Notebook', quantity: 1, packed: false },
+  { id: 10, description: 'Pen', quantity: 2, packed: false },
+  { id: 11, description: 'Snacks', quantity: 5, packed: false },
+  { id: 12, description: 'Water Bottle', quantity: 1, packed: false },
+  { id: 13, description: 'Jacket', quantity: 1, packed: false },
+  { id: 14, description: 'Guidebook', quantity: 1, packed: false },
+  { id: 15, description: 'Map', quantity: 1, packed: false },
+  { id: 16, description: 'Phone', quantity: 1, packed: false },
+  { id: 17, description: 'Headphones', quantity: 1, packed: false },
+  { id: 18, description: 'First Aid Kit', quantity: 1, packed: false },
+];
+export default initialItems;
