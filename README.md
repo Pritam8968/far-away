@@ -53,7 +53,7 @@ Then open your browser and go to:
 
 ## 🛠️ Built With
 - ⚛️ React
-- 💅 CSS Modules or Vanilla CSS (based on project)
+- 💅 Vanilla CSS
 - 🔧 Vite
 - 📦 pnpm
 
